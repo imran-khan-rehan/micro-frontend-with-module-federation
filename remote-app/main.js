@@ -1,0 +1,1 @@
+import ('./.quasar/client-entry');
